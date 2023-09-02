@@ -3,7 +3,7 @@ const PersonCard = (props) => {
 
     return (
         <>
-        <div className="card mb-3 m-3" style={{maxWidth: '540px'}}>
+        <div className="card mb-3 m-3" style={{maxWidth: '540px', border: "2px solid red"}}>
 
             <div className="row g-0">
                 <div className="col-md-4">
